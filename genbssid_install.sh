@@ -1,4 +1,6 @@
 #!/bin/sh
+wget https://raw.githubusercontent.com/fkugitcunt/genbssid/main/genbssid.sh -O genbssid.sh
+wget https://raw.githubusercontent.com/fkugitcunt/genbssid/main/macaddress-db.cvs -O macaddress-db.cvs
 
 chmod +x genbssid.sh
 
