@@ -1,4 +1,4 @@
-# openwrt-genbssid
+# genbssid
 
 To install copy and paste the following single line command,
 __________________________________________________________
