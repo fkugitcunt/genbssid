@@ -7,7 +7,7 @@ vendor_macaddrs_count=0
 macaddr_pattern="[0-9a-fA-F]{2}:[0-9a-fA-F]{2}:[0-9a-fA-F]{2}"
 full_macaddr_pattern="[0-9a-fA-F]{2}:[0-9a-fA-F]{2}:[0-9a-fA-F]{2}:[0-9a-fA-F]{2}:[0-9a-fA-F]{2}:[0-9a-fA-F]{2}"
 config_file="/etc/config/wireless"
-macaddress_db_file="macaddress-db.cvs"
+macaddress_db_file="macaddress-db.csv"
 wireless_config=""
 
 get_vendors_macaddrs()
